@@ -12,7 +12,7 @@ const App = () => {
   const [currentPage, setCurrentPage] = useState(1)
 
   useEffect(() => {
-    fetch("data.json")
+    fetch("/data.json")
     .then((re) => re.json())
     .then((data) => {setData(data); console.log("Data has been fetched", data);
     ;
