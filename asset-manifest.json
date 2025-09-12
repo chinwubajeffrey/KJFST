@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KJFST/static/css/main.43feb873.css",
+    "main.js": "/KJFST/static/js/main.630a2738.js",
+    "index.html": "/KJFST/index.html",
+    "main.43feb873.css.map": "/KJFST/static/css/main.43feb873.css.map",
+    "main.630a2738.js.map": "/KJFST/static/js/main.630a2738.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43feb873.css",
+    "static/js/main.630a2738.js"
+  ]
+}
